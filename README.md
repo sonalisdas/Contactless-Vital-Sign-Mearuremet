@@ -16,7 +16,7 @@ Libraries: OpenCV, NumPy, SciPy, Scikit-learn, Matplotlib
 
 ML Models: Random Forest, Gradient Boosting (Ensemble)
 
-Hardware Used: Thermal Camera (FLIR/Seek Thermal-compatible)
+Hardware Used: Thermal Camera (FLIR Thermal-compatible)
 
 Environment: Jupyter Notebook
 
